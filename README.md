@@ -13,3 +13,4 @@ https://mid.curitiba.pr.gov.br/dadosabertos/BaseReceitaDespesa/2022-09-01_Receit
 Link para o Dicionário de Dados :
 https://mid.curitiba.pr.gov.br/dadosabertos/BaseReceitaDespesa/2016-04-07_Receitas_-_Dicionario_de_Dados.xlsx
 
+
